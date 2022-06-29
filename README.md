@@ -1,4 +1,5 @@
 # MercadoTech
+<<<<<<< HEAD
 
 Tomás Alberdi
 Lucas de Andrés
